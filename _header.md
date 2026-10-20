@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# Device Registry Asset Endpoint Profiles
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Terraform resource module for Device Registry Asset Endpoint Profiles.
